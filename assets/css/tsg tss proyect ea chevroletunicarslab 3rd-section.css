@@ -72,6 +72,12 @@ background-position:  center -850px;
 
 }
 
+.slider-wrapper .slider-item:nth-child(11):before {
+  background-image: url(https://ik.imagekit.io/ql9msrqiq/Unicars%20Performance%20Store/Don%20Turras%20x%20Performance.jpg);
+  background-position: center -850px;
+}
+
+
 
 .slider-wrapper .slider-item .slide-content {
   position: relative;
@@ -188,6 +194,7 @@ background-position:  center -850px;
   position: relative;
   justify-content: space-between;
 
+
 }
 
 .slider-pagination .slider-indicator {
@@ -197,8 +204,7 @@ background-position:  center -850px;
   transition: 0.4s ease-in-out;
 }
 .slider-pagination .slider-tab {
-
-  width: 150px;
+width: 150px;
   color: #DBDADA;
   padding: 10px 10px;
   cursor: pointer;
@@ -230,7 +236,8 @@ background-position:  center -850px;
 
 }
 .slider-navigations button:hover {
-  background: orangered;
+  background: black;
+  color: white;
 }
 .slider-navigations button.swiper-button-disabled {
   display: none;
