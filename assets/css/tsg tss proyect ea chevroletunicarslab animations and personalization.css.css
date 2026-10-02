@@ -1,0 +1,85 @@
+.recolecta{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url(https://ik.imagekit.io/ql9msrqiq/Unicars%20Performance%20Store/2%20%20Unicars%20Performance%20Store%20ZX1%20C8R.jpg?updatedAt=1784687402329);
+    background-size: 100%;
+    background-position: center;
+}
+
+.content-rec{
+    width: 80%;
+    height: 250px;
+
+
+     margin-left: 0%;
+     top: 15%;
+
+}
+.noc{
+    width: 250px;
+    height: 100px;
+}
+.noc img{
+    width: 130%;
+}
+.uni img{
+    width: 150%;
+}
+.content-rec .text{
+    width: 40%;
+    height: 80%;
+    text-align: center;
+}
+.content-rec .text h1{
+    font-size: 4rem;
+}
+
+.type-style{
+    width: 100%;
+
+}
+.type-style div{
+    font-size: 2rem;
+}
+
+
+
+
+
+.count{
+    color: rgb(255, 0, 85);
+    font-weight: bold;
+}
+
+
+
+
+
+
+.iam{
+    font-size: 20px !important;
+height: 30px;
+color: rgb(0, 183, 255);
+}
+
+
+.text-s{
+    width: 250px;
+    font-size: 20px !important;
+    font-weight: bold;
+height: 30px;
+
+    color: rgb(62, 216, 255);
+    text-align: center;
+}
+.typed-cursor{
+    color: black !important;
+}
+
+
+@media (max-width: 768px) {
+.recolecta{
+    display: none;
+}
+}
